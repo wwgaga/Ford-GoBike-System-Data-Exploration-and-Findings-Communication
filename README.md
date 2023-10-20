@@ -1,6 +1,10 @@
 # Ford GoBike System Data
 ## by Riga
 
+•	Use Python to explore dataset with information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area in 2019
+•	Performed data wrangling to unify the data format, clean data and write code to compute descriptive statistics.
+•	Used matplotlib, seaborn to build histogram and bar chart to visualize the data, which can allow analyst to see the distribution of data by univariate and multivariant exploration.
+•	Among the result in slides, I found that the analyzed factors, including personal information (gender, age, and user type) and station location, have a significant impact on the number of users, but they show relatively little effect on ride duration.
 
 ## Dataset
 
